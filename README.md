@@ -1,8 +1,8 @@
 # New Features Preview
 
 
-# About Cloud Injection
-Cloud Injection provides convenient cloud services to reduce user costs. It supports free use of all functions and guarantees long-term stability! You do not need to pay for servers or any maintenance fees.
+# About LiveAssist
+LiveAssist provides convenient cloud services to reduce user costs. It supports free use of all functions and guarantees long-term stability! You do not need to pay for servers or any maintenance fees.
 - All functions are permanently free
 - No injection quantity limit
 - No management quantity limit
